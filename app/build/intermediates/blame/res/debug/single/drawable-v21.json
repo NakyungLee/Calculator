@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
