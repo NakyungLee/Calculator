@@ -13,10 +13,6 @@ buildscript {
     }
 }
 
-dependencies {
-
-}
-
 allprojects {
     repositories {
         jcenter()
