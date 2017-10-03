@@ -8,6 +8,10 @@
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
     },
     {
+        "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/connor/.android/build-cache/afdd13fa96b581d5f6f3fb1d68aa01d107d26e29/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     }
