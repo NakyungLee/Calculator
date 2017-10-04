@@ -108,6 +108,15 @@ public class CalculatorActivity extends ActionBarActivity {
                 lastDot = false;
             }
         });
+        // Heart button
+        findViewById(R.id.heart).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Button button = (Button) findViewById(R.id.heart);
+                button.setText(button.getText() == "♡" ? "♥" : "♡");
+            }
+        });
+
         // Backspace button
         findViewById(R.id.deleteButton).setOnClickListener(new View.OnClickListener() {
             @Override
