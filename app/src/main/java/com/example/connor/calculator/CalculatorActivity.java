@@ -14,7 +14,7 @@ public class CalculatorActivity extends ActionBarActivity {
     // IDs of all the numeric buttons
     private int[] numericButtons = {R.id.zeroButton, R.id.oneButton, R.id.twoButton, R.id.threeButton, R.id.fourButton, R.id.fiveButton, R.id.sixButton, R.id.sevenButton, R.id.eightButton, R.id.nineButton};
     // IDs of all the operator buttons
-    private int[] operatorButtons = {R.id.addButton, R.id.subtractButton, R.id.multiplyButton, R.id.divideButton};
+    private int[] operatorButtons = {R.id.addButton, R.id.subtractButton, R.id.multiplyButton, R.id.divideButton, R.id.modButton};
     // TextView used to display the output
     private TextView txtScreen;
     // Represent whether the lastly pressed key is numeric or not
@@ -106,6 +106,30 @@ public class CalculatorActivity extends ActionBarActivity {
                 lastNumeric = false;
                 stateError = false;
                 lastDot = false;
+            }
+        });
+        // Backspace button
+        findViewById(R.id.deleteButton).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                txtScreen.setText(txtScreen.getText().subSequence(0, txtScreen.getText().length() - 1));
+                if (txtScreen.getText().length() > 0) {
+                    String nums = "0123456789";
+                    lastNumeric = false;
+                    lastDot = true;
+                    for (int i = 0; i < nums.length(); i++) {
+                        if (txtScreen.getText().charAt(txtScreen.getText().length() - 1) == nums.charAt(i)) {
+                            lastNumeric = true;
+                            lastDot = false;
+                        }
+                    }
+                }
+                else {
+                    lastNumeric = false;
+                    stateError = false;
+                    lastDot = false;
+                }
+
             }
         });
         // Equal button
