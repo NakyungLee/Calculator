@@ -24,12 +24,12 @@
         "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/drawable/notification_bg_low.xml"
     },
     {
-        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/drawable/abc_btn_colored_material.xml"
     },
     {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/drawable/num_button.xml",
@@ -318,10 +318,6 @@
     {
         "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/drawable/button.xml",
         "source": "/Users/Niki/dev/cs399/Calculator/app/src/main/res/drawable/button.xml"
-    },
-    {
-        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/drawable/logo.png",
-        "source": "/Users/Niki/dev/cs399/Calculator/app/src/main/res/drawable/logo.png"
     },
     {
         "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
