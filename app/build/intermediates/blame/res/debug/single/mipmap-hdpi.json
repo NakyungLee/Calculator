@@ -1,7 +1,15 @@
 [
     {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/Niki/dev/cs399/Calculator/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
         "source": "/home/connor/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/Niki/dev/cs399/Calculator/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",

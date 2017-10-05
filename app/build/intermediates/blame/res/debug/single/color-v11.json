@@ -4,7 +4,15 @@
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

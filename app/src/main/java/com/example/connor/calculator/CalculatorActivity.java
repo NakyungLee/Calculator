@@ -150,9 +150,7 @@ public class CalculatorActivity extends ActionBarActivity {
         });
     }
 
-    /**
-     * Logic to calculate the solution.
-     */
+    /*Logic to calculate the solution.*/
     private void onEqual() {
         // If the current state is error, nothing to do.
         // If the last input is a number only, solution can be found.

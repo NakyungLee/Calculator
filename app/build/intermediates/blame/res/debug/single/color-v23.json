@@ -1,11 +1,35 @@
 [
     {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/color-v23/abc_tint_default.xml"
     },
     {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
@@ -20,8 +44,16 @@
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/color-v23/abc_tint_edittext.xml"
     },
     {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_tint_switch_thumb.xml"
     },
     {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
@@ -30,6 +62,14 @@
     {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/color-v23/abc_btn_colored_text_material.xml"
     },
     {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",

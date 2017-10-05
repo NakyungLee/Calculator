@@ -4,6 +4,14 @@
         "source": "/home/connor/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
     },
     {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/Niki/dev/cs399/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/Niki/dev/cs399/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
         "source": "/home/connor/AndroidStudioProjects/Calculator/app/src/main/res/mipmap-mdpi/ic_launcher.png"
     }

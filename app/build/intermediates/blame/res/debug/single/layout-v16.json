@@ -2,5 +2,9 @@
     {
         "merged": "/home/connor/AndroidStudioProjects/Calculator/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
         "source": "/home/connor/.android/build-cache/c0cfcb75051ef2af187dbec930a872e53709e106/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/Niki/dev/cs399/Calculator/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/Users/Niki/.android/build-cache/e444739eb4322c75d91f8fc897b7022232fe3efb/output/res/layout-v16/notification_template_custom_big.xml"
     }
 ]
